@@ -1,0 +1,3 @@
+terraform/.terraform/
+k8s/minikube-linux-amd64
+k8s/kubectl
